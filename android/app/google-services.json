@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650067826194",
+    "project_id": "khidma-aa661",
+    "storage_bucket": "khidma-aa661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650067826194:android:f570d084f3223ee36caacb",
+        "android_client_info": {
+          "package_name": "com.example.dawak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DO-2naILWk6rzgG_GOxDOF4yQu7dERk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650067826194:android:c670e44b5999dec56caacb",
+        "android_client_info": {
+          "package_name": "com.example.khidma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DO-2naILWk6rzgG_GOxDOF4yQu7dERk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
