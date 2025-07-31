@@ -1,10 +1,10 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:dawak/screens/chatbot_screen.dart';
 import 'package:dawak/screens/map_screen.dart';
 import 'package:dawak/screens/medicine_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:dawak/controller.dart';
 import 'package:get/get.dart';
-import 'chatbot_screen-V2.dart';
 
 class HomeScreenContent extends StatelessWidget {
    HomeScreenContent({super.key});
@@ -210,7 +210,7 @@ class HomeScreenContent extends StatelessWidget {
                   
                   child: Image.asset('images/robot.png'),
                   onPressed: () {
-                    Get.to(ChatBotScreenV2());
+                    Get.to(ChatBotScreen());
                   }
                   ),
                 floatingActionButtonLocation: FloatingActionButtonLocation.startFloat,
